@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C8FA9123A28DA1364CD2A9D4AFFFEAF39C1A524E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C6BD6053BA9EF1860AC50D5056DF90B2742461B4" : 9223372036854775807,
+    "E53DAC68D57E5059C1F3CD46BCC541D1B692AB73" : 9223372036854775807,
+    "CC98B7B89D73D622CF90637ABDBDE5E219C6C3D9" : 9223372036854775807,
+    "C8FA9123A28DA1364CD2A9D4AFFFEAF39C1A524E" : 9223372036854775807,
+    "6D486F87425B2FC5E4E779860F3A5FF238CFD005" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2268CDB9-A0BE-40DB-8A8C-A5B538DE4386",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C6BD6053BA9EF1860AC50D5056DF90B2742461B4" : "iOSLottery\/iOSLottery\/Supple\/SportsLottery\/",
+    "E53DAC68D57E5059C1F3CD46BCC541D1B692AB73" : "iOSCaiqr\/shion\/",
+    "CC98B7B89D73D622CF90637ABDBDE5E219C6C3D9" : "iOSLottery\/iOSLottery\/Supple\/Extra\/",
+    "C8FA9123A28DA1364CD2A9D4AFFFEAF39C1A524E" : "iOSLottery\/",
+    "6D486F87425B2FC5E4E779860F3A5FF238CFD005" : "iOSLottery\/iOSLottery\/Supple\/PayModule\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOSLottery",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOSLottery.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.caiqr.com:ios_module\/CKPayClient.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D486F87425B2FC5E4E779860F3A5FF238CFD005"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.caiqr.com:ios_module\/SportsLottery.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6BD6053BA9EF1860AC50D5056DF90B2742461B4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:caiqr\/iOSLottery.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C8FA9123A28DA1364CD2A9D4AFFFEAF39C1A524E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:caiqr\/iOSExtra.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC98B7B89D73D622CF90637ABDBDE5E219C6C3D9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:caiqr\/shion.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E53DAC68D57E5059C1F3CD46BCC541D1B692AB73"
+    }
+  ]
+}

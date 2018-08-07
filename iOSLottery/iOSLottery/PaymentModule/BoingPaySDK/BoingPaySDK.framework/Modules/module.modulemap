@@ -1,0 +1,6 @@
+framework module BoingPaySDK {
+  umbrella header "BoingPaySDK.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="CQHeadImgCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="mca-cu-lvz"/>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="accountSel_YES" translatesAutoresizingMaskIntoConstraints="NO" id="Wbu-Lv-peb">
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="Wbu-Lv-peb" secondAttribute="height" multiplier="1:1" id="WVS-Yx-E88"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="Wbu-Lv-peb" secondAttribute="bottom" constant="7" id="FSC-IN-6pJ"/>
+                <constraint firstAttribute="bottom" secondItem="mca-cu-lvz" secondAttribute="bottom" constant="5" id="HUe-Ak-m6x"/>
+                <constraint firstItem="Wbu-Lv-peb" firstAttribute="width" secondItem="mca-cu-lvz" secondAttribute="height" multiplier="5:19" id="OVz-qD-eda"/>
+                <constraint firstItem="mca-cu-lvz" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="5" id="bKF-zf-8r2"/>
+                <constraint firstAttribute="trailing" secondItem="Wbu-Lv-peb" secondAttribute="trailing" constant="7" id="sj8-Jz-anj"/>
+                <constraint firstItem="mca-cu-lvz" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="5" id="wox-UC-fyZ"/>
+                <constraint firstAttribute="trailing" secondItem="mca-cu-lvz" secondAttribute="trailing" constant="5" id="xQh-tR-4KH"/>
+            </constraints>
+            <size key="customSize" width="138" height="126"/>
+            <connections>
+                <outlet property="headImageView" destination="mca-cu-lvz" id="GEI-Or-5fv"/>
+                <outlet property="selectedImageView" destination="Wbu-Lv-peb" id="baE-r8-32M"/>
+            </connections>
+            <point key="canvasLocation" x="370" y="298"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="accountSel_YES" width="19" height="19"/>
+    </resources>
+</document>

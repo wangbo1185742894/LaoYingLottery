@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>CLAddBankCardViewController</string>
+	<string>CLHeadReviseListViewController</string>
+	<string>CLHeadOfSysChooseViewController</string>
+	<string>CLModifyNickNameViewController</string>
+	<string>CLUserCertifyViewController</string>
+	<string>CLUserCertifySuccessViewController</string>
+	<string>CLModifyMobileViewController</string>
+	<string>CLBankCardListViewController</string>
+	<string>CLRechargeController</string>
+	<string>CLWithdrawViewController</string>
+	<string>CLBuyRedEnveSelectViewController</string>
+	<string>CLRedEnveExchangeViewController</string>
+	<string>CLPersonalMsgViewController</string>
+	<string>CLPersonalJournalViewController</string>
+	<string>CLRedEnvelopeViewController</string>
+	<string>CLLotteryBetOrderListViewController</string>
+	<string>CLFollowListViewController</string>
+	<string>CLModifyLoginPwdViewController</string>
+	<string>CLSetLoginPasswordController</string>
+	<string>CLModifyPayPwdViewController</string>
+	<string>CQSettingPaymentPwdViewController</string>
+	<string>CLMicroPaymentViewController</string>
+	<string>CLLottBetOrdDetaViewController</string>
+	<string>CLFollowDetailViewController</string>
+	<string>CLSafeSettingViewController</string>
+	<string>CKNewRechargeViewController</string>
+	<string>CQBuyRedPacketsViewController</string>
+</array>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appKey</key>
+	<dict>
+		<key>online</key>
+		<string>587742d4734be4689a000c6f</string>
+		<key>CVT</key>
+		<string>4ddb405fd98c5cc3e00026b</string>
+	</dict>
+	<key>channelId</key>
+	<string>APPSTORE</string>
+	<key>platform</key>
+	<array>
+		<dict>
+			<key>weixin</key>
+			<string></string>
+			<key>type</key>
+			<integer>1</integer>
+			<key>appKey</key>
+			<string>wx555ea291af124683</string>
+			<key>appSecret</key>
+			<string>d532e82b065d84a1e80d9aeb69ea66dc</string>
+			<key>redirectUrl</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>qq</key>
+			<string></string>
+			<key>type</key>
+			<integer>4</integer>
+			<key>appKey</key>
+			<string>1106062450</string>
+			<key>appSecret</key>
+			<string></string>
+			<key>redirectUrl</key>
+			<string>http://www.caiqr.com</string>
+		</dict>
+		<dict>
+			<key>sina</key>
+			<string></string>
+			<key>type</key>
+			<integer>0</integer>
+			<key>appKey</key>
+			<string>67923405</string>
+			<key>appSecret</key>
+			<string>96f9f319124463bf3b1375bf0fe00fb5</string>
+			<key>redirectUrl</key>
+			<string>https://sns.whalecloud.com/sina2/callback</string>
+		</dict>
+	</array>
+</dict>
+</plist>

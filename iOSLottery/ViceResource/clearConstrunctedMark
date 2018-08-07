@@ -1,0 +1,15 @@
+#!/bin/bash
+
+plist_path=$(dirname $0)/ViceResourceIndex.plist
+
+if [ ! -f "$plist_path" ]; then  
+　　echo "ViceResourceIndex.plist is null"
+    exit 0  
+fi 
+
+key="cntStructureBundleId"
+
+PlistBuddy="/usr/libexec/PlistBuddy"
+
+$PlistBuddy -c "Set :$key """ $plist_path
+

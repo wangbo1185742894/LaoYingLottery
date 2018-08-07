@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>11选5官方版</string>
+	<key>client_type</key>
+	<string>1021</string>
+	<key>channelId</key>
+	<string>APPSTORE_D11</string>
+	<key>urlSchemes</key>
+	<string>eaglesyxw</string>
+	<key>suppleShare</key>
+	<string>0</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>eaglesyxw</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
